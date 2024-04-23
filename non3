@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+ <p><strong>{{sex1}} {{sex2}} {{1name2}},</strong></p>
+    
+    <p>Nous vous remercions pour votre intérêt à explorer des opportunités professionnelles en Suisse à travers notre organisation. Après une révision minutieuse de votre dossier, nous souhaitons vous communiquer quelques points importants de votre candidature.</p>
+    
+    <p>Malheureusement, votre niveau actuel de français ne répond pas au minimum requis pour avancer dans notre processus de sélection. Chez <strong>{{name2}}</strong>, nous nous assurons que tous nos candidats puissent gérer les communications de base en français, essentiel pour une intégration efficace dans l'environnement de travail suisse.</p>
+    
+    <p>Cependant, nous vous encourageons à ne pas considérer ceci comme un obstacle insurmontable. Au contraire, cela pourrait être une excellente occasion d'enrichir vos compétences linguistiques. Nous vous conseillons de viser au moins le niveau <strong>B1</strong> en français, ce qui augmenterait non seulement vos chances avec nous mais aussi ouvrirait d'autres portes dans l'avenir.</p>
+    
+    <p>Veuillez voir cette pause comme un moment pour améliorer et développer davantage vos compétences. Nous serions plus qu'heureux de reconsidérer votre candidature une fois que vous aurez atteint le niveau de français nécessaire.</p>
+    
+    <p>Nous apprécions votre compréhension et avons hâte de voir vos progrès. N'hésitez pas à postuler de nouveau une fois que vous aurez atteint un niveau <strong>B1</strong> en français.</p>
+    
+    <p>Cordialement,</p>
+
+<p><strong>Support Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
