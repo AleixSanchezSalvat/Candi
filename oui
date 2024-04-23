@@ -4,7 +4,7 @@
 
 <p>Salut <strong>{{1name1}}</strong> !</p>
     
-    <p>Nous sommes ravis de vous informer que vous avez réussi la présélection pour postuler avec <strong>{{name2}}</strong> ! Selon notre Super Calculatrice et d'après les informations que vous nous avez fournies, dans le secteur <strong>{{sector}}</strong>, vous pourriez prétendre à des salaires allant jusqu'à <strong>{{money}}</strong>, selon la zone et la demande actuelle. Qu'attendez-vous ?</p>
+    <p>Nous sommes ravis de vous informer que vous avez réussi la présélection pour postuler avec <strong>{{name2}}</strong> ! Selon notre Super Calculatrice et d'après les informations que vous nous avez fournies, dans le secteur <strong>{{sector}}</strong>, vous pourriez prétendre à des salaires allant jusqu'à <strong>{{money}}</strong> anunuels, selon la zone et la demande actuelle. Qu'attendez-vous ?</p>
     
     <p>Nous vous invitons à remplir un second formulaire pour commencer à saisir ces incroyables opportunités dès aujourd'hui: <a href="{{link3}}">Formulaire</a>. Ne manquez pas l'occasion de franchir une nouvelle étape importante dans votre carrière professionnelle.</p>
     
