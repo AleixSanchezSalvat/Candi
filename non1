@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><strong>{{sex1}} {{sex2}} {{1name2}},</strong></p>
+    
+    <p>Nous espérons que ce message vous trouve en bonne santé. Nous tenons à vous remercier pour votre intérêt à rechercher des opportunités d'emploi en Suisse à travers <strong>{{name2}}</strong> dans le secteur <strong>{{sector}}</strong>. Nous apprécions grandement votre enthousiasme !</p>
+    
+    <p>Malheureusement, nous devons vous informer que, en raison de contraintes légales, nous ne pouvons actuellement pas traiter les candidatures des personnes qui n'ont pas atteint la majorité. C'est une norme que nous devons respecter pour assurer que tous les processus d'embauche soient justes et conformes aux régulations en vigueur.</p>
+    
+    <p>Cependant, nous vous encourageons vivement à envisager de nouveau cette opportunité dès que vous aurez 18 ans. Nous croyons fermement au potentiel de chaque individu et serions très heureux d'évaluer votre candidature à l'avenir.</p>
+    
+    <p>Nous vous remercions de nouveau pour votre compréhension et espérons avoir l'occasion de collaborer avec vous à l'avenir.</p>
+    
+    <p>Cordialement,</p>
+
+<p><strong>Support Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
