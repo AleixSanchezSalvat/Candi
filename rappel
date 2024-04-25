@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Salut {{1name1}},</p>
+
+<p>Comment ça va?</p>
+
+<p>Juste un petit rappel : tu n'as pas encore rempli notre deuxième formulaire pour postuler en Suisse. Je sais que la vie peut être occupée et que parfois nous remettons les choses à plus tard, mais ce petit pas peut faire toute la différence dans ton avenir professionnel.</p>
+
+<p>En seulement <strong>10 minutes</strong> de ton temps, tu peux t'ouvrir à un monde d'opportunités dans le secteur prospère de <strong>{{sector}}</strong> en Suisse. Ne sous-estime pas le potentiel de cette démarche.</p>
+
+<p>Alors, qu'en dis-tu? Oserais-tu à faire le premier pas vers un avenir brillant en Suisse?</p>
+
+<p><strong>Clique sur le lien pour remplir le formulaire dès maintenant :</strong> <a href="{{link3}}"><strong>Formulaire</strong></a></p>
+
+<p>Je suis là pour t'aider en tout ce dont tu as besoin. Ne laisse pas passer cette opportunité qui pourrait changer ta vie!</p>
+
+<p>Bien à toi!</p>
+
+<p><strong>Support Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
