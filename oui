@@ -11,9 +11,6 @@
 <p style="font-weight: bold;">Comment ça marche ?</p>
 <p> C'est simple. Une fois que tu auras rempli ce deuxième formulaire, tes données seront traitées par Catalina, notre Super Base de Données Intelligente. Catalina travaillera jour et nuit pour trouver des offres qui correspondent à ton profil, en trouvant la meilleure option pour toi. Cela peut prendre des jours, des semaines ou des mois, selon de nombreux facteurs, mais dès qu'il y aura une correspondance, nous te contacterons pour t'expliquer les détails de l'offre d'emploi et tu décideras si tu veux postuler ou non. </p>
 
-<p style="font-weight: bold;">De plus,</p>
-<p> Catalina nous a révélé que, avec les données que tu as déjà fournies, tu pourrais aspirer à un salaire allant jusqu'à {{money}}. Ton talent mérite d'être reconnu ! </p>
-
 <p> <a href="{{link3}}" style="font-weight: bold;">Clique ici</a> pour commencer ton voyage vers le succès professionnel. </p>
 
 <p> Nous sommes là pour te soutenir à chaque étape du chemin. Ne laisse pas passer cette opportunité unique ! </p>
