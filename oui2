@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p style="font-weight: bold;">Félicitations {{1name1}} !</p>
+
+<p> Tu as réussi notre pré-sélection pour postuler en Suisse via {{name2}} Il est temps de franchir la prochaine étape dans ta carrière professionnelle ! </p>
+
+<p> Remplis notre court formulaire en seulement 10 minutes et accède à un monde d'opportunités professionnelles dans le secteur de la Vente et du Commerce en Suisse. </p>
+
+<p style="font-weight: bold;">Comment ça marche ?</p>
+<p> C'est simple. Une fois que tu auras rempli ce deuxième formulaire, tes données seront traitées par Catalina, notre Super Base de Données Intelligente. Catalina travaillera jour et nuit pour trouver des offres qui correspondent à ton profil, en trouvant la meilleure option pour toi. Cela peut prendre des jours, des semaines ou des mois, selon de nombreux facteurs, mais dès qu'il y aura une correspondance, nous te contacterons pour t'expliquer les détails de l'offre d'emploi et tu décideras si tu veux postuler ou non. </p>
+
+<p> <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7_dmtKLfdpu_n-t34SBuayqAji0mYc0nILXtWerepx43DUg/viewform?usp=sf_link" style="font-weight: bold;">Clique ici</a> pour commencer ton voyage vers le succès professionnel. </p>
+
+<p> Nous sommes là pour te soutenir à chaque étape du chemin. Ne laisse pas passer cette opportunité unique ! </p>
+
+<p><strong>Support Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
