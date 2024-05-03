@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><strong>{{sex1}} {{sex2}} {{1name2}},</strong></p>
+
+<p><strong>J'espère que ce message vous trouve bien.</strong> Nous tenons à vous remercier sincèrement pour votre intérêt à faire partie de notre processus de sélection pour postuler via {{name2}} dans le secteur {{sector}} en Suisse.</p>
+
+<p>Malheureusement, après avoir examiné attentivement votre candidature, nous devons vous informer que votre candidature n'a pas été retenue lors de cette présélection. Notre processus de sélection est <strong>rigoureux</strong> et recherche des candidats avec une qualification spécifique dans le secteur {{sector}}, ce qui est un prérequis essentiel pour les postes que nous offrons.</p>
+
+<p>Cependant, nous vous encourageons vivement à ne pas vous décourager. Nous reconnaissons votre intérêt et vos efforts, et nous vous encourageons à poursuivre vos objectifs professionnels. Si vous obtenez la qualification nécessaire ou supplémentaire à l'avenir, nous vous invitons à postuler à nouveau pour de futures opportunités via notre organisation.</p>
+
+<p>Nous apprécions sincèrement votre temps et votre dévouement dans ce processus de sélection. Nous vous souhaitons beaucoup de succès dans vos efforts professionnels futurs et espérons avoir l'opportunité de vous considérer à nouveau à l'avenir.</p>
+
+<p><strong>Cordialement,</strong></p>
+
+<p><strong>Support Team - {{name3}}</strong><br>
+<strong>{{name2}}</strong><br>
+<strong>{{correo}}</strong><br>
+<strong>{{telefono}}</strong></p>
+
+<p><img src="{{link2}}" alt="Imagen relevante" style="width:%50;"></p>
+
+<p><em><small style="color:grey;">This communication, inclusive of all attachments hereto, is strictly designated for the exclusive use of the intended recipient(s) and may contain information that is confidential, proprietary, or otherwise legally exempt from disclosure under applicable law, including but not limited to the General Data Protection Regulation (GDPR, Articles 15 and 32) and relevant data protection statutes. This transmission is subject to rigorous confidentiality and data security stipulations.
+
+The recipient of this information is hereby notified that any unauthorized disclosure, replication, dissemination, or action predicated upon the contents herein is strictly prohibited and may constitute a violation of enforceable legal statutes. Should you not be the designated recipient, you are requested to notify the sender immediately and proceed to expunge this message and any attachments from your system, refraining from any form of copy or distribution thereof.
+
+We acknowledge that electronic mail communication may be susceptible to security risks including, but not limited to, content alteration and interception by third parties. {{name2}} expressly disclaims all liability for any errors, omissions, alterations, or consequential damages arising from the employment of this communication, underscoring the importance of exercising due diligence and validating the integrity of the correspondence.
+
+We deeply value your cooperation and comprehension in fostering a secure and confidential digital interaction environment. It is our ongoing commitment to operate not only in strict compliance with legislative mandates but also with the utmost respect for the privacy and security of information entrusted to us by our esteemed collaborators and clients.</small></em></p>
+
+</body>
+</html>
